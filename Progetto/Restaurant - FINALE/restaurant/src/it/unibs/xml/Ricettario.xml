@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><recipes>
-	<seats value="100"/>
-	<workload value="40"/>
-	<drinks_per_person value="2"/>
-	<extras_per_person value="2"/>
-</recipes>
