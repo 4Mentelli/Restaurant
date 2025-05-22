@@ -1,0 +1,18 @@
+@startuml
+actor User
+
+User -> Converter: convert(input)
+activate Converter
+
+alt Conversion successful
+    Converter -> User: return result
+else Conversion fails
+    Converter -> ConvertException: throw()
+    activate ConvertException
+    ConvertException -> Converter: handleException()
+    deactivate ConvertException
+    Converter -> User: return error message
+end
+
+deactivate Converter
+@enduml

@@ -1,0 +1,209 @@
+<recipes>
+	<recipe id="1" name="Spaghetti alla carbonara" period="01/01/2025 - 31/12/2025" workload="10">
+		<ingredient name="Pasta" quantity="120.0" unit="g"/>
+		<ingredient name="Pecorino romano" quantity="50.0" unit="g"/>
+		<ingredient name="Guanciale" quantity="100.0" unit="g"/>
+		<ingredient name="Pepe nero" quantity="10.0" unit="g"/>"
+		<ingredient name="Uova" quantity="2.0" unit="pezzi"/>
+	</recipe>
+	<recipe id="2" name="Spaghetti aglio, olio e peperoncino" period="01/01/2025 - 31/12/2025" workload="8">
+		<ingredient name="Pasta" quantity="120.0" unit="g"/>
+		<ingredient name="Aglio" quantity="0.2" unit="pezzi"/>
+		<ingredient name="Olio extravergine di oliva" quantity="50.0" unit="ml"/>
+		<ingredient name="Peperoncino" quantity="1.0" unit="pezzo"/>
+	</recipe>
+	<recipe id="3" name="Risotto alla milanese" period="01/01/2025 - 30/06/2025" workload="14">
+		<ingredient name="Riso" quantity="100.0" unit="g"/>
+		<ingredient name="Burro" quantity="50.0" unit="g"/>
+		<ingredient name="Cipolla" quantity="1.0" unit="pezzo"/>
+		<ingredient name="Zafferano" quantity="0.1" unit="g"/>
+		<ingredient name="Brodo di carne" quantity="500.0" unit="ml"/>
+		<ingredient name="Parmigiano reggiano" quantity="50.0" unit="g"/>
+	</recipe>
+	<recipe id="4" name="Risotto ai funghi" period="01/01/2025 - 30/06/2025" workload="14">
+		<ingredient name="Riso" quantity="100.0" unit="g"/>
+		<ingredient name="Burro" quantity="50.0" unit="g"/>
+		<ingredient name="Cipolla" quantity="1.0" unit="pezzo"/>
+		<ingredient name="Brodo di carne" quantity="500.0" unit="ml"/>
+		<ingredient name="Parmigiano reggiano" quantity="50.0" unit="g"/>
+		<ingredient name="Funghi porcini" quantity="100.0" unit="g"/>
+		<ingredient name="Funghi Champignon" quantity="100.0" unit="g"/>
+	</recipe>
+	<recipe id="5" name="Spaghetti allo scoglio" period="01/01/2025 - 31/12/2025" workload="22">
+		<ingredient name="Pasta" quantity="120.0" unit="g"/>
+		<ingredient name="Cozze" quantity="250.0" unit="g"/>
+		<ingredient name="Vongole" quantity="250.0" unit="g"/>
+		<ingredient name="Calamari" quantity="75.0" unit="g"/>
+		<ingredient name="Scampi" quantity="2.0" unit="pezzi"/>
+		<ingredient name="Pomodorini" quantity="75.0" unit="g"/>
+		<ingredient name="Olio extravergine di oliva" quantity="15.0" unit="ml"/>
+		<ingredient name="Aglio" quantity="0.1" unit="pezzi"/>
+		<ingredient name="Prezzemolo" quantity="10" unit="pezzi"/>
+		<ingredient name="Sale" quantity="5.0" unit="g"/>
+		<ingredient name="Pepe nero" quantity="5.0" unit="g"/>
+	</recipe>
+	<recipe id="6" name="Spaghetti cacio e pepe" period="01/01/2025 - 31/12/2025" workload="6">
+		<ingredient name="Pasta" quantity="120.0" unit="g"/>
+		<ingredient name="Pecorino romano" quantity="50.0" unit="g"/>
+		<ingredient name="Pepe nero" quantity="10.0" unit="g"/>
+	</recipe>
+	<recipe id="7" name="Spaghetti alla Amatriciana" period="01/01/2025 - 31/12/2025" workload="14">
+		<ingredient name="Pasta" quantity="120.0" unit="g"/>
+		<ingredient name="Guanciale" quantity="50.0" unit="g"/>
+		<ingredient name="Pomodori pelati" quantity="100.0" unit="g"/>
+		<ingredient name="Pecorino romano" quantity="25.0" unit="g"/>
+		<ingredient name="Olio extravergine di oliva" quantity="10.0" unit="ml"/>
+		<ingredient name="Sale" quantity="5.0" unit="g"/>
+		<ingredient name="Peperoncino" quantity="1.0" unit="pezzi"/>
+	</recipe>
+	<recipe id="8" name="Pasta alla gricia" period="01/01/2025 - 31/12/2025" workload="10">
+		<ingredient name="Pasta" quantity="120.0" unit="g"/>
+		<ingredient name="Guanciale" quantity="50.0" unit="g"/>
+		<ingredient name="Pecorino romano" quantity="50.0" unit="g"/>
+		<ingredient name="Pepe nero" quantity="5.0" unit="g"/>
+		<ingredient name="Sale" quantity="5.0" unit="g"/>
+	</recipe>
+	<recipe id="9" name="Risotto al radicchio" period="01/01/2025 - 30/06/2025" workload="14">
+		<ingredient name="Riso" quantity="100.0" unit="g"/>
+		<ingredient name="Radicchio" quantity="0.25" unit="pezzi"/>
+		<ingredient name="Cipolla" quantity="0.25" unit="pezzo"/>
+		<ingredient name="Parmigiano reggiano" quantity="50.0" unit="g"/>"
+		<ingredient name="Brodo vegetale" quantity="250.0" unit="ml"/>
+		<ingredient name="Olio extravergine di oliva" quantity="10.0" unit="ml"/>
+		<ingredient name="Sale" quantity="5.0" unit="g"/>
+	</recipe>
+	<recipe id="10" name="Primo della casa" period="01/01/2025 - 31/12/2025" workload="10">
+		<ingredient name="Pasta" quantity="160.0" unit="g"/>
+		<ingredient name="Pomodori pelati" quantity="100.0" unit="g"/>
+		<ingredient name="Tonno" quantity="100.0" unit="g"/>
+		<ingredient name="Dado" quantity="0.5" unit="pezzi"/>
+		<ingredient name="Parmigiano reggiano" quantity="50.0" unit="g"/>
+	</recipe>
+	<recipe id="11" name="Bistecca alla griglia" period="01/01/2025 - 31/12/2025" workload="8">
+		<ingredient name="Carne di manzo" quantity="200.0" unit="g"/>
+		<ingredient name="Sale" quantity="5.0" unit="g"/>
+		<ingredient name="Pepe nero" quantity="5.0" unit="g"/>
+		<ingredient name="Olio extravergine di oliva" quantity="15.0" unit="ml"/>
+	</recipe>
+	<recipe id="12" name="Pollo alla cacciatora" period="01/01/2025 - 30/06/2025" workload="14">
+		<ingredient name="Cosce di pollo" quantity="4.0" unit="pezzi"/>
+		<ingredient name="Pomodori pelati" quantity="500.0" unit="g"/>
+		<ingredient name="Cipolla" quantity="1.0" unit="pezzi"/>
+		<ingredient name="Aglio" quantity="0.5" unit="pezzi"/>
+		<ingredient name="Sale" quantity="5.0" unit="g"/>
+		<ingredient name="Pepe nero" quantity="5.0" unit="g"/>
+		<ingredient name="Olio extravergine di oliva" quantity="15.0" unit="ml"/>
+	</recipe>
+	<recipe id="13" name="Insalata di rucola con pomodorini e scaglie di Parmigiano Reggiano" period="01/01/2025 - 31/12/2025" workload="6">
+		<ingredient name="Rucola" quantity="50.0" unit="g"/>
+		<ingredient name="Pomodorini" quantity="100.0" unit="g"/>
+		<ingredient name="Parmigiano Reggiano" quantity="20.0" unit="g"/>
+	</recipe>
+	<recipe id="14" name="Carpaccio di salmone marinato con limone e zenzero" period="01/05/2025 - 30/09/2025" workload="6">
+		<ingredient name="Salmone" quantity="100.0" unit="g"/>
+		<ingredient name="Limone" quantity="1.0" unit="pezzi"/>
+		<ingredient name="Zenzero" quantity="5.0" unit="g"/>
+	</recipe>
+	<recipe id="15" name="Prosciutto e melone" period="01/05/2025 - 30/09/2025" workload="4">
+		<ingredient name="Prosciutto crudo" quantity="50.0" unit="g"/>
+		<ingredient name="Melone" quantity="150.0" unit="g"/>
+	</recipe>
+	<recipe id="16" name="Gateau di patate" period="01/01/2025 - 31/12/2025" workload="14">
+		<ingredient name="Patate" quantity="100.0" unit="g"/>
+		<ingredient name="Parmigiano Reggiano" quantity="20.0" unit="g"/>
+		<ingredient name="Prosciutto cotto" quantity="10.0" unit="g"/>
+		<ingredient name="Prezzemolo" quantity="10.0" unit="pezzi"/>
+		<ingredient name="Sale" quantity="5.0" unit="g"/>
+		<ingredient name="Pepe nero" quantity="5.0" unit="g"/>
+		<ingredient name="Olio extravergine di oliva" quantity="15.0" unit="ml"/>
+	</recipe>
+	<recipe id="17" name="Polpette al sugo" period="01/01/2025 - 30/06/2025" workload="16">
+		<ingredient name="Carne di manzo" quantity="50.0" unit="g"/>
+		<ingredient name="Uova" quantity="1.0" unit="pezzi"/>
+		<ingredient name="Pane raffermo" quantity="10.0" unit="g"/>
+		<ingredient name="Parmigiano Reggiano" quantity="20.0" unit="g"/>
+		<ingredient name="Prezzemolo" quantity="10.0" unit="pezzi"/>
+		<ingredient name="Sale" quantity="5.0" unit="g"/>
+		<ingredient name="Pepe nero" quantity="5.0" unit="g"/>
+		<ingredient name="Olio extravergine di oliva" quantity="15.0" unit="ml"/>
+	</recipe>
+	<recipe id="18" name="Polpo e patate" period="01/01/2025 - 31/12/2025" workload="14">
+		<ingredient name="Polpo" quantity="230.0" unit="g"/>
+		<ingredient name="Patate" quantity="230.0" unit="g"/>
+		<ingredient name="Limone" quantity="1.0" unit="pezzi"/>
+		<ingredient name="Prezzemolo" quantity="10.0" unit="pezzi"/>
+		<ingredient name="Sale" quantity="5.0" unit="g"/>
+		<ingredient name="Pepe nero" quantity="5.0" unit="g"/>
+		<ingredient name="Olio extravergine di oliva" quantity="15.0" unit="ml"/>
+	</recipe>
+	<recipe id="19" name="Chili con carne" period="01/01/2025 - 31/12/2025" workload="16">
+		<ingredient name="Carne di manzo" quantity="50.0" unit="g"/>
+		<ingredient name="Peperoni" quantity="1.0" unit="pezzi"/>
+		<ingredient name="Brodo di carne" quantity="75.0" unit="g"/>
+		<ingredient name="Pomodori pelati" quantity="150.0" unit="pezzi"/>
+		<ingredient name="Aglio" quantity="0.5" unit="pezzi"/>
+		<ingredient name="Sale" quantity="5.0" unit="g"/>
+		<ingredient name="Pepe nero" quantity="5.0" unit="g"/>
+		<ingredient name="Olio extravergine di oliva" quantity="15.0" unit="ml"/>
+	</recipe>
+	<recipe id="20" name="Secondo della casa" period="01/01/2025 - 31/12/2025" workload="12">
+		<ingredient name="Cosce di pollo" quantity="2.0" unit="pezzi"/>
+		<ingredient name="Paprica" quantity="10.0" unit="g"/>
+		<ingredient name="Pomodorini" quantity="100.0" unit="g"/>
+		<ingredient name="Sale" quantity="5.0" unit="g"/>
+		<ingredient name="Pepe nero" quantity="5.0" unit="g"/>
+		<ingredient name="Olio extravergine di oliva" quantity="15.0" unit="ml"/>
+	</recipe>
+	<recipe id="21" name="Tiramisù" period="01/01/2025 - 31/12/2025" workload="10">
+		<ingredient name="Uova" quantity="1.0" unit="pezzi"/>
+		<ingredient name="Mascarpone" quantity="100.0" unit="g"/>
+		<ingredient name="Savoiardi" quantity="40.0" unit="g"/>
+		<ingredient name="Caffè" quantity="30.0" unit="ml"/>
+		<ingredient name="Zucchero" quantity="20.0" unit="g"/>
+	</recipe>
+	<recipe id="22" name="Torta di mele" period="01/01/2025 - 31/05/2025" workload="16">
+		<ingredient name="Uova" quantity="1.0" unit="pezzi"/>
+		<ingredient name="Mele" quantity="100.0" unit="g"/>
+		<ingredient name="Burro" quantity="20.0" unit="g"/>
+		<ingredient name="Farina" quantity="40.0" unit="g"/>
+		<ingredient name="Lievito" quantity="2.0" unit="g"/>
+		<ingredient name="Latte" quantity="20.0" unit="ml"/>
+		<ingredient name="Limone" quantity="1.0" unit="pezzi"/>
+		<ingredient name="Zucchero" quantity="20.0" unit="g"/>
+	</recipe>
+	<recipe id="23" name="Brownies" period="01/01/2025 - 30/06/2025" workload="10">
+		<ingredient name="Farina" quantity="10.0" unit="g"/>
+		<ingredient name="Cioccolato" quantity="40.0" unit="g"/>
+		<ingredient name="Burro" quantity="20.0" unit=""/>
+		<ingredient name="Nocciole" quantity="20.0" unit="g"/>
+		<ingredient name="Zucchero" quantity="20.0" unit="g"/>
+	</recipe>
+	<recipe id="24" name="Cookies" period="01/01/2025 - 31/12/2025" workload="10">
+		<ingredient name="Uova" quantity="1.0" unit="pezzi"/>
+		<ingredient name="Farina" quantity="10.0" unit="g"/>
+		<ingredient name="Cioccolato" quantity="40.0" unit="g"/>
+		<ingredient name="Burro" quantity="20.0" unit="g"/>
+		<ingredient name="Zucchero" quantity="20.0" unit="g"/>
+	</recipe>
+	<recipe id="25" name="Torta della casa" period="01/01/2025 - 31/12/2025" workload="16">
+		<ingredient name="Uova" quantity="1.0" unit="pezzi"/>
+		<ingredient name="Burro" quantity="20.0" unit="g"/>
+		<ingredient name="Farina" quantity="40.0" unit="g"/>
+		<ingredient name="Lievito" quantity="2.0" unit="g"/>
+		<ingredient name="Latte" quantity="20.0" unit="ml"/>
+		<ingredient name="Limone" quantity="1.0" unit="pezzi"/>
+		<ingredient name="Zucchero" quantity="20.0" unit="g"/>
+		<ingredient name="Nonno di Vicardi" quantity="1.0" unit="pezzi"/>
+	</recipe>
+	<recipe id="26" name="Meringata" period="01/05/2025 - 30/09/2025" workload="8">
+		<ingredient name="Uova" quantity="1.0" unit="pezzi"/>
+		<ingredient name="Zucchero" quantity="20.0" unit="g"/>
+		<ingredient name="Panna" quantity="60.0" unit="ml"/>
+		<ingredient name="Fragole" quantity="100.0" unit="g"/>
+	</recipe>
+	<recipe id="27" name="Patatine fritte" period="01/01/2025 - 28/02/2025" workload="4">
+		<ingredient name="Patate" quantity="2.0" unit="pezzi"/>
+		<ingredient name="Olio di Semi" quantity="100.0" unit="ml"/>
+	</recipe>
+	
+</recipes>

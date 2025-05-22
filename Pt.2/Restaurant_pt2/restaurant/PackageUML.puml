@@ -1,0 +1,18 @@
+@startuml
+package "it.unibs.se.controller" {
+    class ManagerController
+}
+
+package "it.unibs.se.view" {
+    class ManagerView
+    interface View
+}
+
+package "it.unibs.se.model" {
+    class Manager
+}
+
+ManagerController ..> ManagerView : uses
+ManagerController ..> Manager : uses
+ManagerView --|> View
+@enduml

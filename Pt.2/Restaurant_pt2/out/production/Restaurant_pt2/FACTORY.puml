@@ -1,0 +1,28 @@
+@startuml
+title Simple Factory: IngredientFactory
+
+class IngredientFactory {
+    +static IdentifiableIngredient createDrink(String name, float quantity_in_stock, int id)
+    +static IdentifiableIngredient createExtra(String name, float quantity_in_stock, int id)
+}
+
+class IdentifiableIngredient {
+    - GenericIngredient ingredient
+    - int id
+    + getName(): String
+    + getId(): int
+}
+
+class GenericIngredient {
+    - String name
+    - float quantity
+    - String unit
+    + getName(): String
+    + getQuantity(): float
+    + getUnit(): String
+}
+
+IngredientFactory ..> IdentifiableIngredient : "creates"
+IdentifiableIngredient *-- GenericIngredient : "contains"
+
+@enduml

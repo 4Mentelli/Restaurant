@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><reservations>
+	<reservation date="28/4/2025" id="1" n_people="3" workload="120.0">
+		<order n_people="1">		
+			<dish id="4"/>
+			<dish id="11"/>
+			<dish id="27"/>
+			<dish id="21"/>
+		</order>
+			<order n_people="2">		
+			<menu id="3"/>
+		</order>
+	</reservation>
+	<reservation date="19/3/2025" id="2" n_people="2" workload="80.0">
+		<order n_people="2">		
+			<dish id="2"/>
+			<dish id="11"/>
+			<dish id="27"/>
+			<dish id="22"/>
+		</order>
+	</reservation>
+	<reservation date="31/12/2025" id="3" n_people="2" workload="80.0">
+		<order n_people="2">		
+			<menu id="4"/>
+		</order>
+	</reservation>
+	<reservation date="7/2/2025" id="4" n_people="8" workload="320.0">
+		<order n_people="1">		
+			<dish id="3"/>
+			<dish id="27"/>
+			<dish id="21"/>
+		</order>
+			<order n_people="5">		
+			<menu id="3"/>
+		</order>
+			<order n_people="2">		
+			<menu id="7"/>
+		</order>
+	</reservation>
+	<reservation date="18/3/2025" id="5" n_people="2" workload="80.0">
+		<order n_people="2">		
+			<menu id="8"/>
+		</order>
+	</reservation>
+</reservations>

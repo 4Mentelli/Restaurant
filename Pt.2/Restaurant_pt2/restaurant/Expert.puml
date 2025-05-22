@@ -1,0 +1,13 @@
+@startuml
+
+
+-> Manager: getWorkloadForRestaurant()
+activate Manager
+Manager -> Manager: getTotalSeat()
+Manager -> Manager: getWorkloadForClient()
+<- Manager : return workload for Restaurant
+deactivate Manager
+
+
+
+@enduml

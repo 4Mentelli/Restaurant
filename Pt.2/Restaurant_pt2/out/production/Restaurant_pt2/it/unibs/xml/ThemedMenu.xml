@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TematicMenu>
+    <menu id="1" name="Menù della casa" period="01/01/2024 - 31/12/2025" workload="38">
+        <dish name="Primo della casa" workload="10"/>
+        <dish name="Secondo della casa" workload="12"/>
+        <dish name="Torta della casa" workload="16"/>
+    </menu>
+    <menu id="2" name="Menù di Pesce" period="01/06/2024 - 30/09/2024" workload="38">
+        <dish name="Spaghetti allo scoglio" workload="22"/>
+        <dish name="Carpaccio di salmone marinato con limone e zenzero" workload="6"/>
+        <dish name="Tiramisù" workload="10"/>
+    </menu>
+    <menu id="3" name="Il Muntagnì" period="01/09/2024 - 31/05/2025" workload="52">
+        <dish name="Risotto ai funghi" workload="14"/>
+        <dish name="Bistecca alla griglia" workload="8"/>
+        <dish name="Gateau di patate" workload="14"/>
+        <dish name="Torta di mele" workload="16"/>
+    </menu>
+    <menu id="4" name="Roma Capoccia" period="01/01/2024 - 31/12/2025" workload="40">
+        <dish name="Spaghetti alla carbonara" workload="10"/>
+        <dish name="Spaghetti cacio e pepe" workload="6"/>
+        <dish name="Spaghetti alla Amatriciana" workload="14"/>
+        <dish name="Pasta alla Gricia" workload="10"/>
+    </menu>
+    <menu id="5" name="Menù Light" period="01/05/2024 - 30/09/2024" workload="20">
+        <dish name="Insalata di rucola con pomodorini e scaglie di Parmigiano Reggiano" workload="6"/>
+        <dish name="Prosciutto e melone" workload="4"/>
+        <dish name="Cookies" workload="10"/>
+    </menu>
+	<menu id="6" name="Menù della Festa" period="01/05/2025 - 30/06/2025" workload="52">
+		<dish name="Risotto ai funghi" workload="14"/>
+		<dish name="Risotto al radicchio" workload="14"/>
+		<dish name="Carpaccio di salmone marinato con limone e zenzero" workload="6"/>
+		<dish name="Pollo alla cacciatora" workload="14"/>
+		<dish name="Patatine fritte" workload="4"/>
+	</menu>
+	<menu id="7" name="Moise Kean" period="01/01/2025 - 30/06/2025" workload="24">
+		<dish name="Spaghetti cacio e pepe" workload="6"/>
+		<dish name="Bistecca alla griglia" workload="8"/>
+		<dish name="Brownies" workload="10"/>
+	</menu>
+	
+	<menu id="8" name="Tris di Risotti" period="01/01/2025 - 30/06/2025" workload="42">
+		<dish name="Risotto alla milanese" workload="14"/>
+		<dish name="Risotto ai funghi" workload="14"/>
+		<dish name="Risotto al radicchio" workload="14"/>
+	</menu>
+	<menu id="9" name="Menù per bambini" period="01/01/2025 - 30/06/2025" workload="30">
+		<dish name="Polpette al sugo" workload="16"/>
+		<dish name="Patatine fritte" workload="4"/>
+		<dish name="Tiramisù" workload="10"/>
+	</menu>
+</TematicMenu>

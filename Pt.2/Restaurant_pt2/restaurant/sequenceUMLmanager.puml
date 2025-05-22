@@ -1,0 +1,47 @@
+@startuml
+actor User
+
+participant ManagerView
+participant ManagerController
+participant Manager
+
+
+-> ManagerController: start()
+activate ManagerController
+
+
+
+ManagerController -> ManagerView: showMenu()
+activate ManagerView
+ManagerView -> User: display menu
+
+
+
+
+
+
+
+
+User -> ManagerView: select option
+ManagerView -> ManagerController: readOption()
+deactivate ManagerView
+ManagerController -> Manager: addRecipe()
+activate Manager
+Manager -> Manager: addRecipe()
+Manager -> ManagerController
+deactivate Manager
+
+User -> ManagerView: select option
+activate ManagerView
+ManagerView -> ManagerController: readOption()
+deactivate ManagerView
+ManagerController -> Manager: removeRecipe()
+activate Manager
+Manager -> Manager: removeRecipe()
+Manager -> ManagerController
+deactivate Manager
+
+deactivate ManagerController
+
+@enduml
+
