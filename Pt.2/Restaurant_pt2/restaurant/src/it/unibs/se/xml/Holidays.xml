@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<holidays>
+    <holiday date="01/01/2025" name="Capodanno"/>
+    <holiday date="06/01/2025" name="Epifania"/>
+    <holiday date="15/02/2025" name="San Faustino"/>
+    <holiday date="18/04/2025" name="Venerdì Santo"/>
+    <holiday date="19/04/2025" name="Sabato Santo"/>
+    <holiday date="20/04/2025" name="Pasqua"/>
+    <holiday date="21/04/2025" name="Pasquetta"/>
+    <holiday date="25/04/2025" name="Festa della Liberazione"/>
+    <holiday date="01/05/2025" name="Festa del Lavoro"/>
+    <holiday date="02/06/2025" name="Festa della Repubblica"/>
+    <holiday date="15/08/2025" name="Ferragosto"/>
+    <holiday date="01/11/2025" name="Ognissanti"/>
+    <holiday date="08/12/2025" name="Immacolata"/>
+    <holiday date="25/12/2025" name="Natale"/>
+    <holiday date="26/12/2025" name="Santo Stefano"/>
+    <holiday date="01/01/2026" name="Capodanno"/>
+    <holiday date="06/01/2026" name="Epifania"/>
+    <holiday date="15/02/2026" name="San Faustino"/>
+    <holiday date="03/04/2026" name="Venerdì Santo"/>
+    <holiday date="04/04/2026" name="Sabato Santo"/>
+    <holiday date="05/04/2026" name="Pasqua"/>
+    <holiday date="06/04/2026" name="Pasquetta"/>
+    <holiday date="25/04/2026" name="Festa della Liberazione"/>
+    <holiday date="01/05/2026" name="Festa del Lavoro"/>
+    <holiday date="02/06/2026" name="Festa della Repubblica"/>
+    <holiday date="15/08/2026" name="Ferragosto"/>
+    <holiday date="01/11/2026" name="Ognissanti"/>
+    <holiday date="08/12/2026" name="Immacolata"/>
+    <holiday date="25/12/2026" name="Natale"/>
+    <holiday date="26/12/2026" name="Santo Stefano"/>
+</holidays>

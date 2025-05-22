@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><extras>
+    <extra id="1" name="Pane" quantity="200.0"/>
+    <extra id="2" name="Grissini" quantity="0.0"/>
+    <extra id="3" name="Grissini senza glutine" quantity="50.0"/>
+	<extra id="4" name="Focaccia Salata" quantity="200.0"/>
+	<extra id="5" name="Maionese" quantity="0.0"/>
+	<extra id="6" name="Ketchup" quantity="0.0"/>
+	<extra id="7" name="Pane senza glutine" quantity="0.0"/>
+</extras>

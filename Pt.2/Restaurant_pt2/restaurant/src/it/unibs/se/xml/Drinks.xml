@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><drinks>
+    <drink id="1" name="Acqua Naturale" quantity="200.0"/>
+    <drink id="2" name="Acqua Frizzante" quantity="100.0"/>
+    <drink id="3" name="Coca Cola" quantity="0.0"/>
+    <drink id="4" name="Fanta" quantity="150.75"/>
+    <drink id="5" name="Sprite" quantity="0.0"/>
+    <drink id="6" name="Birra" quantity="100.0"/>
+    <drink id="7" name="Birra senza glutine" quantity="52.0"/>
+    <drink id="8" name="Vino Bianco" quantity="150.0"/>
+    <drink id="9" name="Vino Rosso" quantity="100.0"/>
+</drinks>

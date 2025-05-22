@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><storage>
+	<ingredient id="1" name="Uova" quantity="35.0" unit="pezzi"/>
+	<ingredient id="2" name="Salmone" quantity="750.0" unit="g"/>
+	<ingredient id="3" name="Pasta" quantity="3000.0" unit="g"/>
+	<ingredient id="4" name="Riso" quantity="3000.0" unit="g"/>
+	<ingredient id="5" name="Funghi Porcini" quantity="6000.0" unit="g"/>
+	<ingredient id="6" name="Guanciale" quantity="2000.0" unit="g"/>
+	<ingredient id="7" name="Patate" quantity="215.0" unit="pezzi"/>
+	<ingredient id="8" name="Olio di semi" quantity="4000.0" unit="ml"/>
+	<ingredient id="9" name="Speck" quantity="2000.0" unit="g"/>
+	<ingredient id="10" name="Panna" quantity="1000.0" unit="ml"/>
+	<ingredient id="11" name="Parmigiano Reggiano" quantity="4000.0" unit="g"/>
+</storage>
